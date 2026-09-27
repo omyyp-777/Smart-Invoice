@@ -1,0 +1,6 @@
+{
+  "name": "InvoiceAI",
+  "description": "AI-Powered Invoice Automation & Verification — Turn messy customer requests into verified, catalog-backed invoices ready for approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
